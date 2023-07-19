@@ -18,4 +18,4 @@ N/A
 
 ## License
 
-MIT LICENSE 
+MIT License
